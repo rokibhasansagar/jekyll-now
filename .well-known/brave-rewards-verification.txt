@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: rokibhasansagar.github.io
+Token: 2485d5799a86e2fab618973973bc15fed5acf12f2d389e6a5046affc653687a2
